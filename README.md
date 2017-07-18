@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-DevcampViewTool::Renderer.copyright 'Brandon Yates', 'All rights reserved'
+YatesViewTool::Renderer.copyright 'Brandon Yates', 'All rights reserved'
 ```
 ## Development
 
